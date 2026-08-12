@@ -1,0 +1,13 @@
+Time=0  | WR=0 | RD=0 | Data_In=0  | Data_Out=0  | Full=0 | Empty=1
+
+Time=10 | WR=1 | RD=0 | Data_In=10 | Data_Out=0  | Full=0 | Empty=0
+
+Time=20 | WR=1 | RD=0 | Data_In=20 | Data_Out=0  | Full=0 | Empty=0
+
+Time=30 | WR=1 | RD=0 | Data_In=30 | Data_Out=0  | Full=0 | Empty=0
+
+Time=40 | WR=0 | RD=1 | Data_In=30 | Data_Out=10 | Full=0 | Empty=0
+
+Time=50 | WR=0 | RD=1 | Data_In=30 | Data_Out=20 | Full=0 | Empty=0
+
+Time=60 | WR=0 | RD=1 | Data_In=30 | Data_Out=30 | Full=0 | Empty=1
